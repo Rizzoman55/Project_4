@@ -7,7 +7,7 @@
 import openai
 
 # Set your OpenAI API key here
-api_key = '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'
+api_key = 'sk______________________________________'
 openai.api_key = api_key
 
 def risk_assessment(transaction_description):
